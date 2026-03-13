@@ -11,7 +11,7 @@ I have hands-on experience with **Python, SQL, ETL pipelines, cloud platforms (G
 ## 🧠 Technical Skills
 
 * **Programming:** Python, SQL
-* **Databases:** PostgreSQL, MySQL, Snowflake
+* **Databases:** SQL Server, MySQL, PostgreSQL,
 * **Data Modeling:** ER Diagrams, UML, Relational Models
 * **Data Engineering:** ETL Pipelines, Data Warehousing
 * **Cloud & Tools:** Snowflake, GCP, AWS, SSMS, Git, GitHub, SVN
