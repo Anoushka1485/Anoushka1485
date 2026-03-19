@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer with 2.5+ years of industry experience and a strong background in **Data Analytics Engineering, data platforms, and cloud technologies**. I am currently pursuing my **Master’s in Data Analytics Engineering at Northeastern University**. My academic and professional work focuses on building data-driven solutions, designing scalable data models, and translating business problems into analytical insights.
+I am a Software Engineer with 3 years of industry experience and a strong background in **Data Analytics Engineering, data platforms, and cloud technologies**. I am currently pursuing my **Master’s in Data Analytics Engineering at Northeastern University**. My academic and professional work focuses on building data-driven solutions, designing scalable data models, and translating business problems into analytical insights.
 
 I have hands-on experience with **Python, SQL, ETL pipelines, cloud platforms (GCP, Snowflake, AWS, SSMS)**, and database design. I enjoy working on end-to-end data projects—from requirements gathering and modeling to implementation and analysis.
 
@@ -11,7 +11,7 @@ I have hands-on experience with **Python, SQL, ETL pipelines, cloud platforms (G
 ## 🧠 Technical Skills
 
 * **Programming:** Python, SQL
-* **Databases:** SQL Server, MySQL, PostgreSQL,
+* **Databases:** SQL Server, MySQL
 * **Data Modeling:** ER Diagrams, UML, Relational Models
 * **Data Engineering:** ETL Pipelines, Data Warehousing
 * **Cloud & Tools:** Snowflake, GCP, AWS, SSMS, Git, GitHub, SVN
